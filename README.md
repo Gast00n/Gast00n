@@ -1,8 +1,6 @@
 ![Gast00n's header](https://github.com/Gast00n/Gast00n/blob/main/images/scala01.png)
 
-Hi mates! 👋
-<hr>
-I'm Marco, a newly addicted to Web Development & wannabe Full Stacker!<br>
+Hi mates! I'm Marco, a newly addicted to Web Development & wannabe Full Stacker!<br>
 I'm actually working on my skills, sneaking on little personal projects and keep on studying!<br><br><br><br>
 
 [![Gast00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gast00n&show_icons=true&theme=cobalt)](https://github.com/Gast00n/github-readme-stats)

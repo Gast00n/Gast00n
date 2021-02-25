@@ -1,4 +1,4 @@
-[![Gast00n's header](https://github.com/Gast00n/Gast00n/blob/main/images/scala01.png)]
+![Gast00n's header](https://github.com/Gast00n/Gast00n/blob/main/images/scala01.png)
 
 Hi mates! 👋
 <hr>
@@ -12,7 +12,7 @@ I'm actually working on my skills, sneaking on little personal projects and keep
 <!-- Social -->
 If u want to get in touch with me, add me on my <a href="https://www.linkedin.com/in/giuliettidev/">LinkedIn</a>.
 
-[![Gast00n's footer](https://github.com/Gast00n/Gast00n/blob/main/images/scala02.png)]
+![Gast00n's footer](https://github.com/Gast00n/Gast00n/blob/main/images/scala02.png)
 
 
 
